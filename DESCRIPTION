@@ -1,0 +1,11 @@
+Package: incadf
+Type: Package
+Title: Handle data.frames with INCA-data
+Version: 0.1
+Date: 2014-10-24
+Author: Erik Bulow
+Maintainer: Erik Bulow <erik.bulow@rccvast.se>
+Description: New class "incadf" that makes sure that all data is is the right format and handled correctly.
+License: GPL-2
+Suggests: testthat
+Imports: rccmisc, rccdates
